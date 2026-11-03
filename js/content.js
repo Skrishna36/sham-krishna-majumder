@@ -17,7 +17,7 @@ window.SITE = {
   },
 
   links: {
-    email: "S-2019918163@phy.du.ac.bd", // from CV
+    email: "S-2019918163@phy.du.ac.bd","shamkm00@gmail.com" // from CV
     github: "https://github.com/Skrishna36",
     linkedin: "https://www.linkedin.com/in/sham-krishna-majumder-5879443b8/", // from CV
     instagram: "https://www.instagram.com/krishnart0_0/", // art and other activities
