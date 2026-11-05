@@ -186,7 +186,7 @@ window.SITE = {
       date: "January 2020 – May 2025",
       title: "B.S. in Physics",
       org: "University of Dhaka",
-      detail: "CGPA: 3.41/4.00.",
+      detail: "CGPA: 3.43/4.00.",
       kind: "Education",
       courses: {
         credits: "Total credits: 136",
